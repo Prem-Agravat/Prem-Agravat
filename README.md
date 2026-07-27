@@ -1,81 +1,162 @@
-<!-- ================= FULL ANIMATED TECH HERO PROFILE ================= -->
+<!-- ========================= HEADER ========================= -->
 
-<!-- FULL WIDTH ANIMATED NAME -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:000000,25:0f2027,50:203a43,75:00F7FF,100:00FFFF&text=PREM%20AGRAVAT&fontSize=90&fontAlignY=40&fontColor=00F7FF&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:2E1065,35:4F46E5,70:3B82F6,100:06B6D4&text=PREM%20AGRAVAT&fontSize=85&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- GLOWING NAME EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2000&color=00F7FF&center=true&vCenter=true&width=1000&height=100&lines=FULL+STACK+DEVELOPER;COMPUTER+ENGINEERING+STUDENT;CREATIVE+PROJECT+BUILDER;AI+INTEGRATION+ENTHUSIAST"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=34&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Web+Developer;Flutter+Learner;PHP+%26+.NET+Developer;n8n+Workflow+Builder;Computer+Engineering+Student"/>
 </p>
 
-<!-- ANIMATED TECH/DEV GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="380"/>
 </p>
 
 ---
 
-# ⚡ CORE SYSTEM INITIALIZED
+# ⚡ Developer Profile
 
 ```yaml
-NAME: Prem Agravat
-ROLE: B.Tech Computer Engineering Student & Developer
-STATUS: ACTIVE & BUILDING
-POWER_LEVEL: MAXIMUM
+Name: Prem Agravat
 
-SPECIALIZATION:
-  - Full Stack Web Development (MERN, PHP, Python)
-  - AI Integrations & Agentic Workflows
-  - Modern UI/UX Responsive Design
-  - Multi-tenant SaaS Platforms
+Role:
+  B.Tech Computer Engineering Student
+  Web Developer
 
-MISSION:
-  - Engineer highly scalable real-time systems
-  - Build aesthetic, high-performance web apps
-  - Leverage AI to automate daily routines and business workflows
+Status:
+  Open to Internship Opportunities
+
+Specialization:
+  - PHP Web Development
+  - ASP.NET Development
+  - Flutter Development (Learning)
+  - n8n Workflow Automation
+  - Responsive UI Development
+
+Mission:
+  - Build scalable web applications
+  - Develop modern business solutions
+  - Learn Flutter for cross-platform development
+  - Create automation workflows using n8n
 ```
 
 ---
 
-# 🧠 TECH STACK
+# 💫 About Me
+
+- 🎓 B.Tech Computer Engineering Student
+- 💻 Passionate Web Developer
+- 📱 Currently learning Flutter Development
+- ⚙️ Building workflow automations using **n8n**
+- 🌱 Always learning modern technologies
+- 🤝 Open to collaboration on exciting projects
+- 🚀 Looking for real-world software development experience
+
+---
+
+# 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,postgres,php,python,git,github,vscode,postman,netlify,vercel&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,mysql,postgres,php,dotnet,flutter,git,github,vscode&perline=7"/>
 </p>
 
 ---
 
-# 📌 FEATURED PORTFOLIO PROJECTS
+# 🚀 Featured Projects
 
-### 🍽️ QR Menu SaaS (`qrmenu_v3`)
-*A state-of-the-art multi-tenant digital menu & table-ordering system for restaurants.*
-- **Backend:** Node.js, Express, Socket.io (real-time order updates), MongoDB (Mongoose), Razorpay SDK (BYOK encrypted gateway).
-- **Frontend:** Vanilla JS/HTML5/CSS3 Single Page architecture (Admin Dashboard, Client Menu, Kitchen Board, Owner Dashboard).
-- **Features:** Table QR codes, live kitchen KDS board, billing & PDF invoices, email security, and subscription controls.
-
-### 💼 E-commerce & Management Platforms
-- Customized billing, user verification, cart operations, database sync, and admin dashboard reporting.
+| Project | Description | Repository |
+|---------|-------------|------------|
+| 🍽️ **QRMenu SaaS** | A multi-tenant restaurant management platform featuring QR ordering, admin dashboard, billing, restaurant management, and digital menus. | **https://github.com/Prem-Agravat/qrmenu_v3** |
+| 🥗 **Veggie Village** | Full-stack restaurant management website developed during my internship with admin panel, dynamic menu system, offers, PostgreSQL integration, and responsive UI. | **https://github.com/Prem-Agravat/veggie_village** |
+| 🤖 **NexusAI Universe** | A modern AI-powered web application exploring intelligent tools and productivity-focused solutions. | **https://github.com/Prem-Agravat/nexusai-universe** |
+| 🩸 **BloodBridge** | Blood donation platform connecting donors and recipients through an easy-to-use digital platform. | **https://github.com/Prem-Agravat/BloodBridge** |
 
 ---
 
-# 📊 LIVE GIT STATS & ANALYTICS
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Prem-Agravat&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-Agravat&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prem-Agravat&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-Agravat&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 📫 SYSTEM CONNECTIVITY (LET'S COLLABORATE!)
+# 🔥 GitHub Streak
 
-<p align="left">
-  <a href="mailto:agravatprem00@gmail.com">
-    <img src="https://img.shields.io/badge/Email-agravatprem00%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&color=00F7FF" alt="Email"/>
-  </a>
-  <a href="https://github.com/Prem-Agravat">
-    <img src="https://img.shields.io/badge/GitHub-Prem--Agravat-black?style=for-the-badge&logo=github&logoColor=white&color=111" alt="GitHub"/>
-  </a>
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Prem-Agravat&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prem-Agravat&theme=react-dark&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Prem-Agravat&theme=tokyonight&no-frame=true&column=7"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Prem-Agravat">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/prem-agravat/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:agravatprem00@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
+</p>
+
+---
+
+# 💼 Open to Internship Opportunities
+
+📍 **Rajkot, Gujarat, India**
+
+📧 **agravatprem00@gmail.com**
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/prem-agravat/
+
+💻 **GitHub:** https://github.com/Prem-Agravat
+
+> **Currently seeking Web Development, PHP, ASP.NET, or Flutter Internship opportunities (Remote / India).**
+>
+> Passionate about building scalable web applications, learning Flutter, and developing workflow automations using n8n.
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:2E1065,35:4F46E5,70:3B82F6,100:06B6D4"/>
+
 </p>
