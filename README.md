@@ -36,7 +36,7 @@ Specialization:
 Mission:
   - Build scalable web applications
   - Develop modern business solutions
-  - Learn Flutter for cross-platform development
+  - Build Flutter for cross-platform development
   - Create automation workflows using n8n
 ```
 
@@ -66,78 +66,50 @@ Mission:
 
 | Project | Description | Repository |
 |---------|-------------|------------|
-| 🍽️ **QRMenu SaaS** | A multi-tenant restaurant management platform featuring QR ordering, admin dashboard, billing, restaurant management, and digital menus. | **https://github.com/Prem-Agravat/qrmenu_v3** |
-| 🥗 **Veggie Village** | Full-stack restaurant management website developed during my internship with admin panel, dynamic menu system, offers, PostgreSQL integration, and responsive UI. | **https://github.com/Prem-Agravat/veggie_village** |
-| 🤖 **NexusAI Universe** | A modern AI-powered web application exploring intelligent tools and productivity-focused solutions. | **https://github.com/Prem-Agravat/nexusai-universe** |
-| 🩸 **BloodBridge** | Blood donation platform connecting donors and recipients through an easy-to-use digital platform. | **https://github.com/Prem-Agravat/BloodBridge** |
+| 🍽️ **QRMenu SaaS** | Multi-tenant restaurant management platform with QR ordering, billing, admin dashboard, and restaurant management. | [View Repository](https://github.com/Prem-Agravat/qrmenu_v3) |
+| 🥗 **Veggie Village** | Full-stack restaurant website developed during my internship using PHP, PostgreSQL, HTML, CSS, and JavaScript. | [View Repository](https://github.com/Prem-Agravat/veggie_village) |
+| 🤖 **NexusAI Universe** | AI-powered web application exploring intelligent tools and automation solutions. | [View Repository](https://github.com/Prem-Agravat/nexusai-universe) |
+| 🩸 **BloodBridge** | Blood donation platform connecting donors and recipients through an easy-to-use web application. | [View Repository](https://github.com/Prem-Agravat/BloodBridge) |
 
----
 
-# 📊 GitHub Analytics
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prem-Agravat&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-Agravat&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
+## 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Prem-Agravat&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prem-Agravat&theme=react-dark&hide_border=true&area=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prem-Agravat&theme=tokyonight&no-frame=true&column=7"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Prem-Agravat">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<a href="https://github.com/Prem-Agravat?tab=achievements">
+  <img src="./assets/pull-shark.png" width="120" alt="Pull Shark"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/prem-agravat/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+<a href="https://github.com/Prem-Agravat?tab=achievements">
+  <img src="./assets/pair-extraordinaire.png" width="120" alt="Pair Extraordinaire"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Prem-Agravat?tab=achievements">
+  <img src="./assets/yolo.png" width="120" alt="YOLO"/>
+</a>
 
-<a href="mailto:agravatprem00@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+<a href="https://github.com/Prem-Agravat?tab=achievements">
+  <img src="./assets/quickdraw.png" width="120" alt="Quickdraw"/>
 </a>
 
 </p>
 
----
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Prem-Agravat">
+    <img src="https://img.shields.io/badge/GitHub-Prem--Agravat-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/prem-agravat/">
+    <img src="https://img.shields.io/badge/LinkedIn-Prem%20Agravat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:agravatprem00@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-agravatprem00%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 # 💼 Open to Internship Opportunities
 
