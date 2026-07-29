@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=34&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Web+Developer;Flutter+Learner;PHP+%26+.NET+Developer;n8n+Workflow+Builder;Computer+Engineering+Student"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=34&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Web+Developer;Hackathon+Participant;n8n+Workflow+Builder;Flutter+Learner"/>
 </p>
 
 <p align="center">
@@ -21,14 +21,12 @@ Name: Prem Agravat
 
 Role:
   B.Tech Computer Engineering Student
-  Web Developer
 
 Status:
   Open to Internship Opportunities
 
 Specialization:
   - PHP Web Development
-  - ASP.NET Development
   - Flutter Development (Learning)
   - n8n Workflow Automation
   - Responsive UI Development
@@ -107,6 +105,7 @@ Mission:
 
 </tr>
 </table>
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -135,7 +134,7 @@ Mission:
 
 > **Currently seeking Web Development, PHP, ASP.NET, or Flutter Internship opportunities (Remote / India).**
 >
-> Passionate about building scalable web applications, learning Flutter, and developing workflow automations using n8n.
+> Passionate about building scalable web applications, Flutter app, and developing workflow automations using n8n.
 
 ---
 
