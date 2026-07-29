@@ -75,26 +75,38 @@ Mission:
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
-
+<table align="center">
+<tr>
+<td align="center">
 <a href="https://github.com/Prem-Agravat?tab=achievements">
-  <img src="[./assets/pull-shark.png](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)" width="120" alt="Pull Shark"/>
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="120" alt="Pull Shark"/><br>
+    <b>Pull Shark</b>
 </a>
+</td>
 
+<td align="center">
+  <a href="https://github.com/Prem-Agravat?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="120" alt="Pair Extraordinaire"/><br>
+    <b>Pair Extraordinaire</b>
+</a>
+</td>
+
+<td align="center">
 <a href="https://github.com/Prem-Agravat?tab=achievements">
-  <img src="[./assets/pair-extraordinaire.png](https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png)" width="120" alt="Pair Extraordinaire"/>
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="120" alt="YOLO"/><br>
+    <b>YOLO</b>
 </a>
+</td>
 
-<a href="https://github.com/Prem-Agravat?tab=achievements">
-  <img src="[./assets/yolo.png](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)" width="120" alt="YOLO"/>
+<td align="center">
+ <a href="https://github.com/Prem-Agravat?tab=achievements">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="120" alt="Quickdraw"/><br>
+    <b>Quickdraw</b>
 </a>
+</td>
 
-<a href="https://github.com/Prem-Agravat?tab=achievements">
-  <img src="[./assets/quickdraw.png](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)" width="120" alt="Quickdraw"/>
-</a>
-
-</p>
-
+</tr>
+</table>
 ## 🌐 Connect With Me
 
 <p align="center">
