@@ -78,7 +78,7 @@ Mission:
 <p align="center">
 
 <a href="https://github.com/Prem-Agravat?tab=achievements">
-  <img src="[./assets/pull-shark.png](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)" width="120" alt="Pull Shark"/>
+  <img src="[[./assets/pull-shark.png](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)](https://raw.githubusercontent.com/recodehive/awesome-github-profiles/main/assets/Badges/YOLO/PNG/YOLO_Badge.png)" width="120" alt="Pull Shark"/>
 </a>
 
 <a href="https://github.com/Prem-Agravat?tab=achievements">
