@@ -78,19 +78,19 @@ Mission:
 <p align="center">
 
 <a href="https://github.com/Prem-Agravat?tab=achievements">
-  <img src="./assets/pull-shark.png" width="120" alt="Pull Shark"/>
+  <img src="[./assets/pull-shark.png](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)" width="120" alt="Pull Shark"/>
 </a>
 
 <a href="https://github.com/Prem-Agravat?tab=achievements">
-  <img src="./assets/pair-extraordinaire.png" width="120" alt="Pair Extraordinaire"/>
+  <img src="[./assets/pair-extraordinaire.png](https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png)" width="120" alt="Pair Extraordinaire"/>
 </a>
 
 <a href="https://github.com/Prem-Agravat?tab=achievements">
-  <img src="./assets/yolo.png" width="120" alt="YOLO"/>
+  <img src="[./assets/yolo.png](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)" width="120" alt="YOLO"/>
 </a>
 
 <a href="https://github.com/Prem-Agravat?tab=achievements">
-  <img src="./assets/quickdraw.png" width="120" alt="Quickdraw"/>
+  <img src="[./assets/quickdraw.png](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)" width="120" alt="Quickdraw"/>
 </a>
 
 </p>
