@@ -122,7 +122,7 @@ Mission:
   </a>
 </p>
 
-# 💼 Open to Internship Opportunities
+# 💼 Open to Work and Opportunities
 
 📍 **Rajkot, Gujarat, India**
 
