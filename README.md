@@ -23,7 +23,7 @@ Role:
   B.Tech Computer Engineering Student
 
 Status:
-  Open to Internship Opportunities
+  Open to Work 
 
 Specialization:
   - PHP Web Development
