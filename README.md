@@ -132,7 +132,7 @@ Mission:
 
 💻 **GitHub:** https://github.com/Prem-Agravat
 
-> **Currently seeking Web Development, PHP, ASP.NET, or Flutter Internship opportunities (Remote / India).**
+> **Currently seeking Web Development, PHP, ASP.NET, or Flutter Internship opportunities.**
 >
 > Passionate about building scalable web applications, Flutter app, and developing workflow automations using n8n.
 
