@@ -106,6 +106,45 @@ Mission:
 </tr>
 </table>
 
+---
+
+## 📊 Git Activity & Contribution Power
+
+<p align="center">
+  <a href="https://github.com/Prem-Agravat">
+    <img src="https://streak-stats.demolab.com/?user=Prem-Agravat&theme=tokyonight" alt="GitHub Streak Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Prem-Agravat">
+    <img src="https://github-readme-stats.vercel.app/api?username=Prem-Agravat&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="195px" />
+  </a>
+  <a href="https://github.com/Prem-Agravat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-Agravat&layout=compact&theme=tokyonight&langs_count=7" alt="Top Languages" height="195px" />
+  </a>
+</p>
+
+### 👾 Contribution Snake Game
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prem-Agravat/Prem-Agravat/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prem-Agravat/Prem-Agravat/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Prem-Agravat/Prem-Agravat/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+
+### 📈 Weekly Coding Activity Graph
+
+<p align="center">
+  <a href="https://github.com/Prem-Agravat">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prem-Agravat&theme=tokyo-night" alt="GitHub Activity Graph" width="100%" />
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
