@@ -67,7 +67,7 @@ Mission:
 | 🍽️ **QRMenu SaaS** | Multi-tenant restaurant management platform with QR ordering, billing, admin dashboard, and restaurant management. | [View Repository](https://github.com/Prem-Agravat/qrmenu_v3) |
 | 🥗 **Veggie Village** | Full-stack restaurant website developed during my internship using PHP, PostgreSQL, HTML, CSS, and JavaScript. | [View Repository](https://github.com/Prem-Agravat/veggie_village) |
 | 🤖 **NexusAI Universe** | AI-powered web application exploring intelligent tools and automation solutions. | [View Repository](https://github.com/Prem-Agravat/nexusai-universe) |
-| 🩸 **BloodBridge** | Blood donation platform connecting donors and recipients through an easy-to-use web application. | [View Repository](https://github.com/Prem-Agravat/BloodBridge) |
+| 🩸 **LifeLink** | Blood donation platform connecting donors and recipients through an easy-to-use web application. | [View Repository](https://github.com/Prem-Agravat/BloodBridge) |
 
 
 
